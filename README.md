@@ -19,7 +19,7 @@ The model uses **TF-IDF vectorization** and a **classification algorithm** to pr
 ## 📸 **Screenshots**
 
 ### Example 1: **Fake News Prediction**
-![Fake News Prediction](Screenshot_2025-02-13_at_8.19.12_AM.png)
+![Fake News Prediction](Fake.png)
 
 - **News Title Entered**: *"Gwen Stefani got dumped by Blake Shelton over 'jealousy and drama' (exclusive)"*
 - **Prediction**: ❌ *This news is FAKE!*  
@@ -28,7 +28,7 @@ The model uses **TF-IDF vectorization** and a **classification algorithm** to pr
 ---
 
 ### Example 2: **Real News Prediction**
-![Real News Prediction](Screenshot_2025-02-13_at_8.40.49_AM.png)
+![Real News Prediction](Real.png)
 
 - **News Title Entered**: *"Avatar is a good movie"*
 - **Prediction**: ✅ *This news is REAL!*  
