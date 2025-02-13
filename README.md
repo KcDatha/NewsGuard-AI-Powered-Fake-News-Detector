@@ -36,8 +36,9 @@ The model uses **TF-IDF vectorization** and a **classification algorithm** to pr
 
 ---
 
-## 🛠️ **Installation & Setup**
-### 1️⃣ Clone the Repository
-```bash
-git clone https://github.com/yourusername/Fake-News-Detector.git
-cd Fake-News-Detector
+
+### Install Dependencies
+pip install -r requirements.txt
+
+### Run Application
+Streamlit run app.py
